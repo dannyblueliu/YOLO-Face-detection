@@ -6,4 +6,5 @@ The model yolo-face_final.weights is provided through dropbox link:
 https://www.dropbox.com/s/bih69gvt7g0soxo/yolo-face_final.weights?dl=0
 
 sudo make
+
 ./darknet yolo demo cfg/yolo-face.cfg yolo-face_final.weights
